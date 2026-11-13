@@ -1,5 +1,5 @@
 import { Text, View } from "react-native";
-import { tileCosecha } from "./Stylesheet";
+import { tileCosecha } from "../Stylesheet";
 
 export default function TileCosecha({ titulo }) {
   return (
